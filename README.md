@@ -1,3 +1,14 @@
+## 💼 Business Context
+
+This project simulates a simplified Core Banking system, inspired by real financial platforms.
+
+It demonstrates how core banking operations are handled in production environments, including:
+
+- Customer lifecycle
+- Account management
+- Financial transactions
+- Business rules validation
+- 
 # 💳 Core Banking API (.NET)
 
 ![.NET](https://img.shields.io/badge/.NET-7%2F8-blue)
